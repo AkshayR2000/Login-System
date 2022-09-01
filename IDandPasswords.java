@@ -9,10 +9,10 @@ public class IDandPasswords {
 	
 	IDandPasswords(){
 		
-		logininfo.put("Bro","pizza");
-		logininfo.put("Brometheus","PASSWORD");
-		logininfo.put("BroCode","abc123");
+		logininfo.put("Everyone","welcome");
 		logininfo.put("Akshay","callofduty");
+		logininfo.put("abcd","1234");
+		logininfo.put("java","code");
 	}
 	
 	public HashMap getLoginInfo(){
